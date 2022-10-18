@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.notificationItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.main-heading {
+  font-size: 35px;
+  font-family: 'Roboto';
+  color: #0f172a;
+}
+
+.success-icon {
+  color: #2dca73;
+  font-size: 23px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.success-heading {
+  font-size: 25px;
+  font-family: 'roboto';
+  color: #2dca73;
+}
+.description {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #64748b;
+}
+.error-icon {
+  color: #ff0b37;
+  font-size: 23px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.err-heading {
+  color: #ff0b37;
+  font-size: 25px;
+  font-family: 'roboto';
+}
+.warning-icon {
+  color: #ffb800;
+  font-size: 23px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.warning-heading {
+  color: #ffb800;
+  font-size: 25px;
+  font-family: 'roboto';
+}
+.info-icon {
+  color: #0f81e0;
+  font-size: 23px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.info-heading {
+  color: #0f81e0;
+  font-size: 25px;
+  font-family: 'roboto';
+}
